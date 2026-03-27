@@ -87,6 +87,3 @@ Red cells = no Sigma coverage. Green cells = 5+ rules.
 - ATT&CK Containers matrix v18: [attack.mitre.org](https://attack.mitre.org/matrices/enterprise/containers/)
 - Campaign techniques sourced from Trend Micro, Palo Alto Unit42, CrowdStrike, and Aqua Security Nautilus threat reports
 
-## License
-
-MIT
